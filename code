@@ -1,0 +1,61 @@
+[{
+		"name": "Minecraft: Everything You Need To Know About Mods",
+		"description": "Minecraft receives regular official updates from Mojang that add new features to the base game. But this isn't the only way to expand your Minecraft worlds. There's a dedicated fan base that creates their own modded versions of Minecraft that take the game into uncharted territory.",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2022/02/minecraft-everything-you-need-to-know-about-mods.jpg"
+	},
+	{
+		"name": "What is Modded Minecraft?",
+		"description": "Modded Minecraft is a version of the game that can run user-created add ons, also known as mods. These extend the vanilla gameplay provided by Mojang and are supported by independent developers. Minecraft does not support this out of the box, so a special version is required. There are several modded Minecraft clients available, Forge and Fabric are two of the most popular. Mods for one client may not work with another modded Minecraft client.",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2022/01/Minecraft-Redstone.jpg"
+	}, {
+		"name": "What are Data Packs?",
+		"description": "Mojang introduced data packs with Minecraft Java Edition v1.13. Before this, the only way to extend functionality was with a modded client. Data packs extend the vanilla experience, but cannot achieve a true modded experience. There are plenty of quality-of-life modifications available, such as “one person” sleep and instant tree cutting. Check out vanillatweaks.com for some of our favorite data packs.",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2022/02/vanilla-tweaks-data-packs.jpg"
+	}, {
+		"name": "How do I play Modded Minecraft?",
+		"description": "First, you will need a modded Minecraft client. If playing a mod pack, this is easy and will come as part of the installation process. All you need to do is download the mod pack installer and follow the instructions to get going.
+                    If you want to build your own mod pack or install just a few mods, you will need to install a modded Minecraft client. Forge and Fabric are two popular options and have a good mod community behind each. You can find their installers at Forge and Fabric. Once you have installed your client, you are ready to install your mods.",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/12/pjimage---2021-12-03T131840429.jpg"
+	}, {
+		"name": "Where do I install mods?",
+		"description": "You install mods in the ‘mods’ folder found in your Minecraft install directory. You can find this easily from within the Minecraft launcher. For Windows users, open the Launcher for your modded Minecraft client and edit the installation. You will see the game directory path with a clickable button that opens the install folder. If mods directory does not exist, you can create this manually. Alternatively, start the game for the first time and it will create this for you.",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2022/02/minecraft-mod-folder-location.jpg"
+	},{
+		"name": "What mods should I get?",
+		"description": "There are far too many mods to list and your choice will depend on what your goals are. Some mods are not updated for newer versions of Minecraft, forcing you to use an earlier version. This may affect mod availability. With all that said, the most popular mods are maintained, and you will find later versions.",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2022/01/Minecraft-Nether-Wander-Forest.jpg"
+	},
+	{
+		"name": "Mine Together",
+		"description": "Manages many Minecraft multiplayer features and includes a friends list, chat and messaging, and cloud saves. The guys behind the mod add new features all the time.",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2022/02/minecraft-mine-together.jpg"
+	}, {
+		"name": "Journey Map (And Other Map Mods)",
+		"description": "Adding a map to your game is one of the best upgrades you can make. The map is built as you explore and reveal the surrounding land. Pressing ‘M’ brings up the map showing where you are. You can add waypoints and markers for points of interest and pinpoint where you want to be. There is also a handy ‘mini map’ that is positioned in the corner as you play, giving you a live preview of the area, including the mobs.",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2022/02/minecraft-journeymap.jpg"
+	}, {
+		"name": "Light Level Overlay",
+		"description": "Lighting up your base can be a nightmare. With light level overlay, you can see where you need to place torches (or other light sources). Two modes are available. By default, you get red and yellow X’s showing areas that need lighting. Switching to number mode lets you see the light level value for each block. Anything below level eight is red and needs to be lit.",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2022/02/minecraft-lightlevel-overlay.jpg"
+	}, {
+		"name": "Twilight Forest",
+		"description": "Twilight Forest adds an extra dimension accessible via a portal similar to the Nether or The End. You can expect plenty of forested areas made up of tall trees that block sunlight, giving a gloomy atmosphere in perpetual twilight. Progress through the challenges as they increase in difficulty, fighting mobs and bosses in dungeons and encounters.",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2022/02/minecraft-twilight-forest-book.jpg"
+	},{
+		"name": "Pam’s HarvestCraft",
+		"description": "If you ever thought the food choice in Minecraft was poor, look no further than Pam’s HarvestCraft. It adds hundreds of food options to farm, hunt, and fish your way to becoming a master chef.",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2022/02/minecraft-pams-harvestcraft-2.jpg"
+	}, {
+		"name": "What about Mod packs?",
+		"description": "This is a simpler question and the route we recommend for modded Minecraft newcomers. Each mod pack will list the mods included. One of the major advantages of a mod pack is the compiler tests the mods to include and confirms they work together.",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2022/01/Minecraft-Multiple-Ores.jpg"
+	}, {
+		"name": "Feed The Beast: Academy",
+		"description": "This is a great mod pack for those new to modded Minecraft. It makes the journey from vanilla easy by introducing some of the more popular mods while keeping down the fluff and complexity found in some packs. Don’t be put off with this being a pack aimed at beginners. There is still plenty to do and once you have exhausted the mod, you can move on to the more advanced FTB: University pack.",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2022/02/minecraft-ftb-oceanblock.jpg"
+	},{
+		"name": "Skyblock",
+		"description": "Skyblock achieved notoriety on YouTube, gaining a massive fan base and spawning countless clones. It started life as a map with a small island in the sky with no other blocks in sight. You progress through the game by completing challenges. There are plenty of mods like Modern Skyblock and SkyFactory that take this concept further by adding mods and new challenges. Players need to be careful and make sure they craft a bed and sleep as soon as they can. It's game over if you accidentally fall off the island.",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2022/02/minecraft-skyblock-start.jpg"
+	}
+]
